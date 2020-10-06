@@ -48,14 +48,14 @@ The following pages have more details. Please read through the entire document f
 
 ### Coding Guidelines
 
-• For design ideas and functionality: Please look at https://outlook.live.com/
-• Please avoid any frameworks and libraries except react and mobx.
-• Focus more on the JavaScript side of the problem.
-• You will be evaluated on
-◦ Modularity of Code
-◦ Data Structures used
-◦ Logic and cleanliness of code.
-◦ Completeness.
+- For design ideas and functionality: Please look at https://outlook.live.com/
+- Please avoid any frameworks and libraries except react and mobx.
+- Focus more on the JavaScript side of the problem.
+- You will be evaluated on
+  - Modularity of Code
+  - Data Structures used
+  - Logic and cleanliness of code.
+  - Completeness.
 
 <hr>
 
