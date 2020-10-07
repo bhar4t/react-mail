@@ -52,6 +52,7 @@ The following pages have more details. Please read through the entire document f
 - Please avoid any frameworks and libraries except react and mobx.
 - Focus more on the JavaScript side of the problem.
 - You will be evaluated on
+  - UI & design
   - Modularity of Code
   - Data Structures used
   - Logic and cleanliness of code.
