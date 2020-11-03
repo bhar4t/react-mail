@@ -41,7 +41,7 @@ The following pages have more details. Please read through the entire document f
    7. User can filter on inbox on whether a message is flagged or not.
    8. State, navigation should be saved between refreshes
    9. Back button should work.
-7. **fork** current problem repository.
+7. **fork** current problem repository. and make your forked repository **private**.
 8. Add `@bhar4t`, `@divich` as collaborator while intializing repository in github. and follow the given timeline instructions from your mail.
 
 <hr>
