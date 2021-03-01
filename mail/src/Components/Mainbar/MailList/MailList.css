@@ -1,0 +1,25 @@
+.mail_container {
+  flex-direction: row;
+  max-height: 100px;
+  width: 100%;
+  padding: 25px;
+}
+.active {
+  background-color: #8080803b;
+}
+.mail_container > h4 {
+  font-size: 20px;
+  font-weight: 200;
+  color: black;
+}
+.mail_message {
+  display: flex;
+  justify-content: space-between;
+  color: #05ced4;
+  margin-top: 5px;
+}
+.mail_container > span {
+  white-space: nowrap;
+  overflow: hidden;
+  color: black;
+}
