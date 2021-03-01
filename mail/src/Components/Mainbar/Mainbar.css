@@ -1,0 +1,17 @@
+.main_container {
+  width: 25vw;
+  height: 100vh;
+}
+.mainbar_header {
+  display: flex;
+  font-size: 25px;
+  margin-top: 60px;
+}
+.mainbar_header > p {
+  color: #808080;
+  margin-left: 25px;
+}
+
+.focused {
+  color: #05ced4 !important;
+}

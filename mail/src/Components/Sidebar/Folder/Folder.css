@@ -1,0 +1,19 @@
+.folder {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+  height: 50px;
+  font-size: 25px;
+  align-items: center;
+}
+
+.folder_highlighted {
+  background-color: #c6e0f5;
+}
+.folder_name {
+  color: black;
+}
+.unread_count {
+  color: #05ced4;
+}
