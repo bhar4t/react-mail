@@ -1,0 +1,12 @@
+.header{
+  overflow: hidden;
+  background-color: #0078d4;
+}
+.header a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}

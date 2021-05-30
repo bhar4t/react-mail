@@ -1,0 +1,28 @@
+.mailBox{        
+        margin-left: 600px;
+        padding: 1px 16px;
+
+}
+.mailBox h3{
+        padding: 20px;
+}
+.mailBox p{
+        padding:0px 20px 20px 20px;
+}
+
+button{        
+   
+        border: none;
+        color: white;
+        padding: 10px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+}
+.delete {
+        background-color: rgb(194, 60, 60);
+}
+.flag {
+        background-color: rgb(161, 161, 26)        ;
+}
