@@ -18,6 +18,9 @@ class MailBox extends Component {
     if(newProps.mailbox && newProps.mailbox.flag){
         this.setState({flag:true})
     }
+    else{
+        this.setState({flag:false})
+    }
    }
 
    deletemail(event){
