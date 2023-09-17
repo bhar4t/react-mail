@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  background-color: #000000;
+  height: 50px;
+}
+.header_icon {
+  background-color: #2b76da;
+  width: 50px;
+}
+.header_text {
+  font-size: 30px;
+  font-weight: 200;
+  margin-left: 45px;
+  margin-top: 5px;
+  color: #fff;
+}
